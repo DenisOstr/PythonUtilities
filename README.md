@@ -17,3 +17,10 @@ Python utilities written to process data, randomize and save the final result in
 1. Run program ` DatabaseRandomizer.py ` with command (in cmd):
     - ` python DatabaseRandomizer.py `
 2. The output will be a ` studentList.csv ` file which can be loaded into the PostgreSQL database.
+
+# Author
+Denis Ostrovsky
+ 
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DenisOstr/StudentList/blob/master/LICENSE)
+> © Denis Ostrovsky
