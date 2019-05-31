@@ -1,0 +1,358 @@
+﻿Babol	 Iran
+Babruysk	 Belarus
+Bacabal	 Brazil
+Bacău	 Romania
+Bacolod	 Philippines
+Bacoor	 Philippines
+Badajoz	 Spain
+Badalona	 Spain
+Badlapur	 India
+Bafoussam	 Cameroon
+Bagaha	 India
+Bagalkot	 India
+Bagé	 Brazil
+Baghdad	 Iraq
+Baghlan	 Afghanistan
+Bago	 Myanmar
+Bago City	 Philippines
+Baguio	 Philippines
+Bahadurgarh	 India
+Baharampur	 India
+Bahawalnagar	 Pakistan
+Bahawalpur	 Pakistan
+Bahía Blanca	 Argentina
+Bahir Dar	 Ethiopia
+Bahraich	 India
+Baia Mare	 Romania
+Baicheng	 China
+Baidoa	 Somalia
+Baidyabati	 India
+Baise	 China
+Baishan	 China
+Baiyin	 China
+Bajos de Haina	 Dominican Republic
+Bakersfield	 United States
+Baku	 Azerbaijan
+Balakovo	 Russia
+Balashikha	 Russia
+Baleshwar	 India
+Balıkesir	 Turkey
+Balikpapan	 Indonesia
+Baliuag	 Philippines
+Ballarat	 Australia
+Ballia	 India
+Bally, Bally-Jagachha	 India
+Bally, Howrah	 India
+Balneário Camboriú	 Brazil
+Bălți	 Moldova
+Baltimore	 United States
+Balurghat	 India
+Bamako	 Mali
+Bamenda	 Cameroon
+Banda Aceh	 Indonesia
+Banda	 India
+Bandar Abbas	 Iran
+Bandar Lampung	 Indonesia
+Bandar Seri Begawan	 Brunei
+Bandar-e Anzali	 Iran
+Bandar-e Mahshahr	 Iran
+Bandırma	 Turkey
+Bandung	 Indonesia
+Bangalore	 India
+Bangaon	 India
+Bangkok	 Thailand
+Bangui	 Central African Republic
+Banha	 Egypt
+Bani Suwayf	 Egypt
+Baní	 Dominican Republic
+Banja Luka	 Bosnia and Herzegovina
+Banjarmasin	 Indonesia
+Banjul	 Gambia
+Bankura	 India
+Bansberia	 India
+Banswara	 India
+Baoding	 China
+Baoji	 China
+Baoshan	 China
+Baotou	 China
+Baqubah	 Iraq
+Barakaldo	 Spain
+Baraki	 Algeria
+Baran	 India
+Baranagar	 India
+Baranovichi	 Belarus
+Barasat	 India
+Baraut	 India
+Barbacena	 Brazil
+Barcarena	 Brazil
+Barcelona, Anzoátegui	 Venezuela
+Barcelona	 Spain
+Bardhaman	 India
+Bareilly	 India
+Bari	 Italy
+Barika	 Algeria
+Bariloche	 Argentina
+Barinas	 Venezuela
+Baripada	 India
+Barisal	 Bangladesh
+Barka	 Oman
+Barnala	 India
+Barnaul	 Russia
+Barquisimeto	 Venezuela
+Barra Mansa	 Brazil
+Barrackpur	 India
+Barrancabermeja	 Colombia
+Barranquilla	 Colombia
+Barreiras	 Brazil
+Barretos	 Brazil
+Barrie	 Canada
+Barshi	 India
+Barueri	 Brazil
+Baruta	 Venezuela
+Barysaw	 Belarus
+Basel	  Switzerland
+Bashiqa	 Iraq
+Basirhat	 India
+Basra	 Iraq
+Basti	 India
+Bat Yam	 Israel
+Batala	 India
+Batam	 Indonesia
+Batangas City	 Philippines
+Bataysk	 Russia
+Bathinda	 India
+Batman	 Turkey
+Batna	 Algeria
+Baton Rouge	 United States
+Battambang	 Cambodia
+Batu	 Indonesia
+Batu Pahat	 Malaysia
+Batumi	 Georgia
+Bauru	 Brazil
+Bawshar	 Oman
+Bayambang	 Philippines
+Bayamo	 Cuba
+Bayamón	 Puerto Rico
+Bayannur	 China
+Bayawan	 Philippines
+Baybay	 Philippines
+Bazhou	 China
+Beau-Bassin Rose-Hill	 Mauritius
+Beaumont	 United States
+Beawar	 India
+Béchar	 Algeria
+Beed	 India
+Beersheba	 Israel
+Begusarai	 India
+Behbahan	 Iran
+Bei'an	 China
+Beihai	 China
+Beijing	 China
+Beipiao	 China
+Beira	 Mozambique
+Beirut	 Lebanon
+Beit Shemesh	 Israel
+Béjaïa	 Algeria
+Bekasi	 Indonesia
+Belém	 Brazil
+Belfast	 United Kingdom
+Belford Roxo	 Brazil
+Belgaum	 India
+Belgorod	 Russia
+Belgrade	 Serbia
+Bellary	 India
+Bellevue	 United States
+Bello	 Colombia
+Belo Horizonte	 Brazil
+Bengbu	 China
+Benghazi	 Libya
+Bengkulu	 Indonesia
+Benguela	 Angola
+Beni Mellal	 Morocco
+Benito Juárez	 Mexico
+Benoni	 South Africa
+Bento Goncalves	 Brazil
+Benxi	 China
+Beppu	 Japan
+Berbera	 Somalia
+Berdyansk	 Ukraine
+Berezniki	 Russia
+Bergamo	 Italy
+Bergen	 Norway
+Bergisch Gladbach	 Germany
+Berhampur	 India
+Berkane	 Morocco
+Berkeley	 United States
+Berlin	 Germany
+Bern	  Switzerland
+Berrechid	 Morocco
+Besançon	 France
+Betim	 Brazil
+Bettiah	 India
+Betul	 India
+Bhadrak	 India
+Bhadravati	 India
+Bhadreswar	 India
+Bhagalpur	 India
+Bhalswa Jahangir Pur	 India
+Bhalwal	 Pakistan
+Bharatpur, Chitwan	   Nepal
+Bharatpur, Rajasthan	 India
+Bharuch	 India
+Bhatpara	 India
+Bhavnagar	 India
+Bhilai	 India
+Bhilwara	 India
+Bhimavaram	 India
+Bhimdatta	   Nepal
+Bhind	 India
+Bhiwadi	 India
+Bhiwandi	 India
+Bhiwani	 India
+Bhopal	 India
+Bhubaneswar	 India
+Bhuj	 India
+Bhusawal	 India
+Białystok	 Poland
+Bidar	 India
+Bidhannagar	 India
+Bielefeld	 Germany
+Bielsko-Biała	 Poland
+Bihar Sharif	 India
+Bijapur	 India
+Bikaner	 India
+Bila Tserkva	 Ukraine
+Bilaspur	 India
+Bilbao	 Spain
+Billings	 United States
+Biñan	 Philippines
+Binangonan	 Philippines
+Binjai	 Indonesia
+Bintulu	 Malaysia
+Binzhou	 China
+Biratnagar	   Nepal
+Birgunj	   Nepal
+Birigui	 Brazil
+Birjand	 Iran
+Birmingham, Alabama	 United States
+Birmingham	 United Kingdom
+Bishkek	 Kyrgyzstan
+Bishoftu	 Ethiopia
+Biskra	 Algeria
+Bissau	 Guinea-Bissau
+Bitung	 Indonesia
+Biysk	 Russia
+Bizerte	 Tunisia
+Blackburn	 United Kingdom
+Blackpool	 United Kingdom
+Blagoveshchensk	 Russia
+Blantyre	 Malawi
+Blida	 Algeria
+Blitar	 Indonesia
+Bloemfontein	 South Africa
+Blumenau	 Brazil
+Bnei Brak	 Israel
+Bo	 Sierra Leone
+Boa Vista	 Brazil
+Bobo-Dioulasso	 Burkina Faso
+Boca Chica	 Dominican Republic
+Bocaue	 Philippines
+Bochum	 Germany
+Bogor	 Indonesia
+Bogota	 Colombia
+Bogra	 Bangladesh
+Boise	 United States
+Bojnord	 Iran
+Bokaro Steel City	 India
+Boksburg	 South Africa
+Bole	 China
+Bologna	 Italy
+Bolton	 United Kingdom
+Bolu	 Turkey
+Bolzano	 Italy
+Boma	 Democratic Republic of the Congo
+Bonao	 Dominican Republic
+Bongao	 Philippines
+Bonn	 Germany
+Bordeaux	 France
+Bordj Bou Arréridj	 Algeria
+Bordj El Kiffan	 Algeria
+Borujerd	 Iran
+Bosaso	 Somalia
+Boston	 United States
+Botad	 India
+Botoșani	 Romania
+Botou	 China
+Botshabelo	 South Africa
+Bottrop	 Germany
+Botucatu	 Brazil
+Bou Saâda	 Algeria
+Bouaké	 Ivory Coast
+Bouïra	 Algeria
+Boulder	 United States
+Boulogne-Billancourt	 France
+Bournemouth	 United Kingdom
+Bozhou	 China
+Bradford	 United Kingdom
+Braga	 Portugal
+Bragança Paulista	 Brazil
+Bragança	 Brazil
+Brăila	 Romania
+Brampton	 Canada
+Brasília	 Brazil
+Brașov	 Romania
+Bratislava	 Slovakia
+Bratsk	 Russia
+Braunschweig	 Germany
+Brazzaville	 Republic of the Congo
+Breda	 Netherlands
+Bremen	 Germany
+Bremerhaven	 Germany
+Brescia	 Italy
+Brest, Brest	 Belarus
+Brest, Brittany	 France
+Bridgeport	 United States
+Brighton	 United Kingdom
+Brisbane	 Australia
+Bristol	 United Kingdom
+Brno	 Czech Republic
+Brownsville	 United States
+Bruges	 Belgium
+Brusque	 Brazil
+Brussels	 Belgium
+Bryansk	 Russia
+Bucaramanga	 Colombia
+Bucharest	 Romania
+Bucheon	 South Korea
+Budapest	 Hungary
+Budaun	 India
+Buenaventura	 Colombia
+Buenos Aires	 Argentina
+Buffalo	 United States
+Bujumbura	 Burundi
+Bukan	 Iran
+Bukavu	 Democratic Republic of the Congo
+Bukhara	 Uzbekistan
+Bulandshahr	 India
+Bulawayo	 Zimbabwe
+Bundi	 India
+Buôn Ma Thuột	 Vietnam
+Buraidah	 Saudi Arabia
+Burao	 Somalia
+Burari	 India
+Burbank	 United States
+Burewala	 Pakistan
+Burgas	 Bulgaria
+Burgos	 Spain
+Burhanpur	 India
+Burlington, Ontario	 Canada
+Burnaby	 Canada
+Bursa	 Turkey
+Busan	 South Korea
+Bushehr	 Iran
+Butuan	 Philippines
+Butwal	   Nepal
+Buxar	 India
+Buzău	 Romania
+Bydgoszcz	 Poland
+Bytom	 Poland

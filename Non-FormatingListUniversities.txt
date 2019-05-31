@@ -1,0 +1,1000 @@
+﻿AD,University of Andorra,http://www.uda.ad/
+AE,Abu Dhabi University,http://www.adu.ac.ae/
+AE,Ajman University of Science & Technology,http://www.ajman.ac.ae/
+AE,Alain University of Science and Technology,http://www.alainuniversity.ac.ae/
+AE,Al Ghurair University,http://www.agu.ae/
+AE,Alhosn University,http://www.alhosnu.ae/
+AE,Al Khawarizmi International College,http://www.khawarizmi.com/
+AE,American College Of Dubai,http://www.acd.ac.ae/
+AE,American University in Dubai,http://www.aud.edu/
+AE,American University in the Emirates,http://www.aue.ae/
+AE,American University of Sharjah,http://www.aus.edu/
+AE,British University in Dubai,http://www.buid.ac.ae/
+AE,Dubai Medical College for Girls,http://www.dmcg.edu/
+AE,Dubai Pharmacy College,http://www.dpc.edu/
+AE,Etisalat University College,http://www.ece.ac.ae/
+AE,Gulf Medical University,http://www.gmu.ac.ae/
+AE,Hamdan Bin Mohammed e-University,http://www.hbmeu.ac.ae/
+AE,Higher Colleges of Technology,http://www.hct.ac.ae/
+AE,Ittihad University,http://www.ittihad.ac.ae/
+AE,Jumeira University,http://www.ju.ac.ae/
+AE,Khalifa University,http://www.kustar.ac.ae/
+AE,"Khalifa University of Science, Technology and Research",http://www.ku.ac.ae/
+AE,Masdar University Of Science And Technology,http://www.masdar.ac.ae/
+AE,"New York University, Abu Dhabi",http://nyuad.nyu.edu/
+AE,Paris-Sorbonne University Abu Dhabi,http://www.sorbonne.ae/
+AE,Rak Medical & Health Sciences University,http://www.rakmhsu.com/
+AE,"Rochester Institute of Technology, Dubai",http://dubai.rit.edu/
+AE,"Skyline University College, Sharjah",http://www.skylineuniversity.com/
+AE,"Synergy University, Dubai Campus",http://www.synergydubai.ae/
+AE,The Emirates Academy of Hotel Managment,http://www.emiratesacademy.edu/
+AE,The Petroleum Institute,http://www.pi.ac.ae/
+AE,United Arab Emirates University,http://www.uaeu.ac.ae/
+AE,University Of Dubai,http://www.ud.ac.ae/
+AE,University of Jazeera,http://www.uojazeera.com/
+AE,University of Sharjah,http://www.sharjah.ac.ae/
+AE,University of Wollongong - Dubai Campus,http://www.uowdubai.ac.ae/
+AE,Zayed University,http://www.zu.ac.ae/
+AF,Afghan University,http://www.afghanuniversity.edu.af/
+AF,Al-Birony University,http://www.au.edu.af/
+AF,American University of Afghanistan,http://www.auaf.edu.af/
+AF,Aria Institute of Higher Education,http://www.aria.edu.af/
+AF,Badakhshan University,http://www.badakhshan.edu.af/
+AF,Baghlan University,http://www.baghlan.edu.af/
+AF,Bakhtar University,http://www.bakhtar.edu.af/
+AF,Balkh University,http://www.ba.edu.af/
+AF,Bamiyan University,http://www.bu.edu.af/
+AF,Bost University,http://www.bost.edu.af/
+AF,Dawat University,http://www.dawat.edu.af/
+AF,Dunya Institute of Higher Education,http://www.dunya.edu.af/
+AF,Faryab Higher Education Institute,http://www.faryab.edu.af/
+AF,Ghazni University,http://www.gu.edu.af/
+AF,Herat University,http://www.hu.edu.af/
+AF,Ibn Sina University,http://www.ibnesina.edu.af/
+AF,Jawzjan University,http://www.ju.edu.af/
+AF,Kaboora Institute of Higher Education,http://www.kaboora.edu.af/
+AF,Kabul Education University,http://www.keu.edu.af/
+AF,Kabul Health Sciences Institute,http://www.kabuli.edu.af/
+AF,Kabul Medical University,http://www.kmu.edu.af/
+AF,Kabul University,http://www.ku.edu.af/
+AF,Kandahar University,http://www.kan.edu.af/
+AF,Kardan University,http://www.kardan.edu.af/
+AF,Karwan Institute of Higher Education,http://www.karwan.edu.af/
+AF,Kateb Institute of Higher Education,http://www.kateb.edu.af/
+AF,Khana-e-Noor Institute of Higher Education,http://www.ken.edu.af/
+AF,Khurasan University,http://www.kumsa.net/
+AF,Maryam Institute of Higher Education,http://www.maryam.edu.af/
+AF,Nangarhar University,http://www.nu.edu.af/
+AF,National Military Academy of Afghanistan,http://www.nmaa.edu.af/
+AF,Paktia University,http://www.pu.edu.af/
+AF,Pamir University,http://www.pamir.edu.af/
+AF,Parwan University,http://www.parwan.edu.af/
+AF,Polytechnical University of Kabul,http://www.polytechnic-kabul.org/
+AF,Rana Institute of Higher Education,http://www.rihs.edu.af/
+AF,Sadat Institute of Higher Education,http://www.sadat.edu.af/
+AF,Salam University,http://www.salam.edu.af/
+AF,Shaikh Zayed University,http://www.szu.edu.af/
+AF,Taj Institute of Higher Education,http://www.taj.edu.af/
+AF,Takhar University,http://www.tu.edu.af/
+AG,American University of Antigua,http://www.auamed.org/
+AG,University of Health Sciences Antigua,http://www.uhsa.ag/
+AL,Academy of Arts,http://www.akademiaearteve.edu.al/
+AL,Academy of Sports and Physical Training,http://www.aefs.edu.al/
+AL,Agricultural University of Tirane,http://www.ubt.edu.al/
+AL,American University of Tirana,http://www.uat.edu.al/
+AL,Beder University,http://www.beder.edu.al/
+AL,Epoka University,http://www.epoka.edu.al/
+AL,Polytechnic University of Tirane,http://www.upt.al/
+AL,"University of Elbasan ""Aleksander Xhuvani""",http://www.uniel.edu.al/
+AL,"University of Gjirokstra ""Eqerem Cabej""",http://www.uogj.edu.al/
+AL,"University of Korca ""Fan Noli""",http://www.unkorce.edu.al/
+AL,University of New York Tirana,http://www.unyt.edu.al/
+AL,"University of Shkodra ""Luigj Gurakuqi""",http://www.unishk.edu.al/
+AL,University of Tirana,http://www.unitir.edu.al/
+AL,"University of Vlora ""Ismail Qemali""",http://www.univlora.edu.al/
+AL,University “Pavaresia” Vlore,http://www.unipavaresia.edu.al/
+AM,American University of Armenia,http://www.aua.am/
+AM,Armenian State Agrarian University,http://www.asau.am/
+AM,Armenian State University of Economics,http://www.asue.am/
+AM,Eurasia International University,http://www.eiu.am/
+AM,European Regional Educational Academy of Armenia,http://www.eriicta.am/
+AM,French University in Armenia (UFAR),http://www.ufar.am/
+AM,Mehrabyan Medical Institute and Medical College,http://www.armmed.am/
+AM,Russian-Armenian (Slavonic) State University,http://www.rau.am/
+AM,State Engineering University of Armenia,http://www.seua.am/
+AM,Yerevan Haibusak University,http://www.haybusak.org/
+AM,Yerevan State Medical University,http://www.ysmu.am/
+AM,Yerevan State University,http://www.ysu.am/
+AN,"American University of the Caribbean, Sint Maarten",http://www.aucmed.edu/
+AN,International University School of Medicine (IUSOM),http://www.internationaluniversity-schoolofmedicine.org/
+AN,"St.James's School of Medicine, Bonaire",http://www.sjsm.org/
+AN,University of Sint Eustatius School of Medicine,http://www.eustatiusmed.edu/
+AN,"University of the Netherlands Antilles, Curacao",http://www.una.an/
+AO,Universidade Católica de Angola,http://www.ucan.edu/
+AO,Universidade Gregorio Semedo,http://www.ugs.ed.ao/
+AO,Universidade Independente de Angola,http://www.unia.ao/
+AO,Universidade Lusíada de Angola,http://www.ulangola.net/
+AO,Universidade Metodista de Angola,http://www.uma.co.ao/
+AO,Universidade Metropolitana de Angola,http://www.unimetroangola.com/
+AO,Universidade Tecnica de Angola,http://www.utanga.co.ao/
+AO,Univesidade Agostinho Neto,http://www.uan.ao/
+AR,Instituto de Enseñanza Superior del Ejército,http://www.iese.edu.ar/
+AR,"Instituto Nacional de Educación Física ""General Manuel Belgrano""",http://www.unlu.edu.ar/Belgrano.htm
+AR,Instituto Tecnológico de Buenos Aires,http://www.itba.edu.ar/
+AR,Instituto Universitario Aeronáutico,http://www.iua.edu.ar/
+AR,Instituto Universitario CEMA,http://www.cema.edu.ar/
+AR,Instituto Universitario de Ciencias de la Salud Fundación H.A. Barceló,http://www.barcelo.edu.ar/
+AR,Instituto Universitario de Estudios Navales y Marítimos,http://www.inun.edu.ar/
+AR,Instituto Universitario de la Policia Federal,http://www.universidad-policial.edu.ar/
+AR,Instituto Universitario Nacional del Arte,http://www.iuna.edu.ar/
+AR,Universidad Abierta Interamericana,http://www.vaneduc.edu.ar/uai/
+AR,Universidad Adventista del Plata,http://www.uapar.edu/
+AR,Universidad Argentina de la Empresa,http://www.uade.edu.ar/
+AR,"Universidad Argentina ""John F. Kennedy""",http://www.kennedy.edu.ar/
+AR,Universidad Atlantida Argentina,http://www.atlantida.edu.ar/
+AR,Universidad Austral Buenos Aires,http://www.austral.edu.ar/
+AR,Universidad Autónoma de Entre Ríos,http://www.uader.edu.ar/
+AR,Universidad Blas Pascal,http://www.ubp.edu.ar/
+AR,"Universidad CAECE, Buenos Aires",http://www.caece.edu.ar/
+AR,Universidad Católica Argentina Santa Maria de los Buenos Aires,http://www.uca.edu.ar/
+AR,Universidad Católica de Córdoba,http://www.uccor.edu.ar/
+AR,Universidad Católica de Cuyo,http://www.uccuyo.edu.ar/
+AR,Universidad Católica de La Plata,http://www.ucalp.edu.ar/
+AR,Universidad Católica de Salta,http://www.ucasal.edu.ar/
+AR,Universidad Católica de Santa Fé,http://www.ucsf.edu.ar/
+AR,Universidad Católica de Santiago del Estero,http://www.ucse.edu.ar/
+AR,Universidad Champagnat,http://www.uch.edu.ar/
+AR,Universidad de Belgrano,http://www.ub.edu.ar/
+AR,Universidad de Bologna - Representación en Buenos Aires,http://www.unibo.edu.ar/
+AR,Universidad de Buenos Aires,http://www.uba.ar/
+AR,Universidad de Ciencias Empresariales y Sociales,http://www.uces.edu.ar/
+AR,Universidad de Concepción del Uruguay,http://www.ucu.edu.ar/
+AR,Universidad de Congreso,http://www.ucongres.edu.ar/
+AR,Universidad de Flores - Buenos Aires,http://www.uflo.edu.ar/
+AR,Universidad del Aconcagua,http://www.uda.edu.ar/
+AR,Universidad de la Cuenca del Plata,http://www.ucp.edu.ar/
+AR,Universidad de la Fraternidad de Agrupaciones Santo Tomas de Aquino (FASTA),http://www.ufasta.edu.ar/
+AR,Universidad de la Marina Mercante,http://www.udemm.edu.ar/
+AR,Universidad del Centro Educativo Latinoamericano Rosario,http://www.ucel.edu.ar/
+AR,Universidad del Cine - Buenos Aires,http://www.ucine.edu.ar/
+AR,Universidad del Museo Social Argentino,http://www.umsa.edu.ar/
+AR,"Universidad del Norte ""Santo Tomás de Aquino""",http://www.unsta.edu.ar/
+AR,Universidad del Salvador,http://www.salvador.edu.ar/
+AR,Universidad de Mendoza,http://www.um.edu.ar/
+AR,Universidad de Morón,http://www.unimoron.edu.ar/
+AR,Universidad de Palermo,http://www.palermo.edu.ar/
+AR,Universidad de San Andres,http://www.udesa.edu.ar/
+AR,Universidad Empresarial Siglio 21,http://www.uesiglo21.edu.ar/
+AR,Universidad ISALUD,http://www.isalud.edu.ar/
+AR,"Universidad ""Juan Agustín Maza""",http://www.umaza.edu.ar/
+AR,Universidad Maimónides,http://www.maimonides.edu.ar/
+AR,Universidad Nacional de Catamarca,http://www.unca.edu.ar/
+AR,Universidad Nacional de Córdoba,http://www.unc.edu.ar/
+AR,Universidad Nacional de Cuyo,http://www.uncu.edu.ar/
+AR,Universidad Nacional de Entre Ríos,http://www.uner.edu.ar/
+AR,Universidad Nacional de Formosa,http://www.unf.edu.ar/
+AR,Universidad Nacional de General San Martín,http://www.unsam.edu.ar/
+AR,Universidad Nacional de General Sarmiento,http://www.ungs.edu.ar/
+AR,Universidad Nacional de Jujuy,http://www.unju.edu.ar/
+AR,Universidad Nacional de La Matanza,http://www.unlam.edu.ar/
+AR,Universidad Nacional de Lanus,http://www.unla.edu.ar/
+AR,Universidad Nacional de La Pampa,http://www.unlpam.edu.ar/
+AR,Universidad Nacional de la Patagonia Austral,http://www.unpa.edu.ar/
+AR,"Universidad Nacional de la Patagonia ""San Juan Bosco""",http://www.unp.edu.ar/
+AR,Universidad Nacional de La Plata,http://www.unlp.edu.ar/
+AR,Universidad Nacional de La Rioja,http://www.unlar.edu.ar/
+AR,Universidad Nacional del Centro de la Provincia de Buenos Aires,http://www.unicen.edu.ar/
+AR,Universidad Nacional del Comahue,http://www.uncoma.edu.ar/
+AR,Universidad Nacional del Littoral,http://www.unl.edu.ar/
+AR,Universidad Nacional del Nordeste,http://www.unne.edu.ar/
+AR,Universidad Nacional del Noroeste de la Provincia de Buenos Aires,http://www.unnoba.edu.ar/
+AR,Universidad Nacional de Lomas de Zamora,http://www.unlz.edu.ar/
+AR,Universidad Nacional del Sur,http://www.uns.edu.ar/
+AR,Universidad Nacional de Luján,http://www.unlu.edu.ar/
+AR,Universidad Nacional de Mar del Plata,http://www.mdp.edu.ar/
+AR,Universidad Nacional de Misiones,http://www.unam.edu.ar/
+AR,Universidad Nacional de Quilmes,http://www.unq.edu.ar/
+AR,Universidad Nacional de Río Cuarto,http://www.unrc.edu.ar/
+AR,Universidad Nacional de Rosario,http://www.unr.edu.ar/
+AR,Universidad Nacional de Salta,http://www.unsa.edu.ar/
+AR,Universidad Nacional de San Juan,http://www.unsj.edu.ar/
+AR,Universidad Nacional de San Luis,http://www.unsl.edu.ar/
+AR,Universidad Nacional de Santiago del Estero,http://www.unse.edu.ar/
+AR,Universidad Nacional de Tres de Febrero,http://www.untref.edu.ar/
+AR,Universidad Nacional de Tucumán,http://www.unt.edu.ar/
+AR,Universidad Nacional de Villa María,http://www.unvm.edu.ar/
+AR,Universidad Notarial Argentina,http://www.universidadnotarial.edu.ar/
+AR,Universidad Tecnológica Nacional,http://www.utn.edu.ar/
+AR,Universidad Torcuato di Tella,http://www.utdt.edu/
+AT,Akademie der bildenden Künste Wien,http://www.akbild.ac.at/
+AT,Donau-Universität Krems,http://www.donau-uni.ac.at/
+AT,Fachhochschule Burgenland,http://www.fh-burgenland.at/
+AT,Fachhochschule für Bank- und Finanzwirtschaft,http://www.fh-vie.ac.at/
+AT,Fachhochschule JOANNEUM,http://www.fh-joanneum.at/
+AT,Fachhochschule Kärnten,http://www.fh-kaernten.ac.at/
+AT,Fachhochschule Krems,http://www.fh-krems.ac.at/
+AT,Fachhochschule Kufstein (Tirol),http://www.fh-kufstein.ac.at/
+AT,Fachhochschule Salzburg,http://www.fh-sbg.ac.at/
+AT,Fachhochschule St. Pölten,http://www.fh-stpoelten.ac.at/
+AT,Fachhochschule Vorarlberg,http://www.fhv.at/
+AT,Fachhochschule Wiener Neustadt,http://www.fhwn.ac.at/
+AT,Fachhochschulstudiengänge der Wiener Wirtschaft,http://www.fhw.at/
+AT,Fachhochschulstudiengänge Hagenberg,http://www.fh-hagenberg.at/
+AT,Fachhochschulstudiengänge Krems IMC,http://www.imc-krems.ac.at/
+AT,Fachhochschulstudiengänge Steyr,http://www.fh-steyr.at/
+AT,Fachhochschulstudiengänge Wels,http://www.fh-wels.at/
+AT,Institute of Science and Technology,http://www.ist.ac.at/
+AT,Katholisch-Theologische Privatuniversität Linz,http://www.kth-linz.ac.at/
+AT,MCI-Management Center Innsbruck,http://www.mci.edu/
+AT,Medizinische Universität Graz,http://www.meduni-graz.at/
+AT,Medizinische Universität Innsbruck,http://www.i-med.ac.at/
+AT,Medizinische Universität Wien,http://www.meduniwien.at/
+AT,Montanuniversität Leoben,http://www.unileoben.ac.at/
+AT,Private Universität für Medizinische Informatik und Technik Tirol,http://www.umit.at/
+AT,Technikum Wien,http://www.technikum-wien.at/
+AT,Technische Universität Graz,http://www.tugraz.at/
+AT,Technische Universität Wien,http://www.tuwien.ac.at/
+AT,Universität für angewandte Kunst Wien,http://ns2.uni-ak.ac.at/
+AT,Universität für Bodenkultur Wien,http://www.boku.ac.at/
+AT,Universität für künstlerische und industrielle Gestaltung Linz,http://www.khs-linz.ac.at/
+AT,Universität für Musik und darstellende Kunst Graz,http://www.kug.ac.at/
+AT,Universität für Musik und darstellende Kunst  Wien,http://www.mdw.ac.at/
+AT,Universität Graz,http://www.kfunigraz.ac.at/
+AT,Universität Innsbruck,http://www.uibk.ac.at/
+AT,Universität Klagenfurt,http://www.uni-klu.ac.at/
+AT,Universität Linz,http://www.uni-linz.ac.at/
+AT,Universität Mozarteum Salzburg,http://www.moz.ac.at/
+AT,Universität Salzburg,http://www.sbg.ac.at/
+AT,Universität Vienna,http://www.univie.ac.at/
+AT,Veterinärmedizinische Universität Wien,http://www.vu-wien.ac.at/
+AT,"Webster University, Vienna",http://www.webster.ac.at/
+AT,Wirtschaftsuniversität Wien,http://www.wu-wien.ac.at/
+AU,Australian Catholic University,http://www.acu.edu.au/
+AU,Australian Correspondence Schools,http://www.acs.edu.au/
+AU,Australian Defence Force Academy,http://www.adfa.oz.au/
+AU,Australian Lutheran College,http://www.alc.edu.au/
+AU,Australian Maritime College,http://www.amc.edu.au/
+AU,Australian National University,http://www.anu.edu.au/
+AU,Avondale College,http://www.avondale.edu.au/
+AU,Batchelor Institute of Indigenous Tertiary Education,http://www.nt.gov.au/batc/
+AU,Blue Mountains Hotel School,http://www.hotelschool.com.au/
+AU,Bond University,http://www.bond.edu.au/
+AU,Central Queensland University,http://www.cqu.edu.au/
+AU,Charles Darwin University,http://www.cdu.edu.au/
+AU,Charles Sturt University,http://www.csu.edu.au/
+AU,Curtin University of Technology,http://www.curtin.edu.au/
+AU,Deakin University,http://www.deakin.edu.au/
+AU,Edith Cowan University,http://www.ecu.edu.au/
+AU,Flinders University of South Australia,http://www.flinders.edu.au/
+AU,Griffith University,http://www.gu.edu.au/
+AU,Holmes Institute,http://www.holmes.edu.au/
+AU,"Institute Of Technology, Australia",http://www.iota.edu.au/
+AU,International College of Tourism and Hotel Management,http://www.icthm.edu.au/
+AU,James Cook University of North Queensland,http://www.jcu.edu.au/
+AU,La Trobe University,http://www.latrobe.edu.au/
+AU,Macquarie University,http://www.mq.edu.au/
+AU,Marcus Oldham College,http://www.marcusoldham.vic.edu.au/
+AU,Monash University,http://www.monash.edu.au/
+AU,Murdoch University,http://www.murdoch.edu.au/
+AU,Queensland University of Technology,http://www.qut.edu.au/
+AU,Royal Melbourne Institute of Technology,http://www.rmit.edu.au/
+AU,Southern Cross University,http://www.scu.edu.au/
+AU,Swinburne University of Technology,http://www.swin.edu.au/
+AU,University of Adelaide,http://www.adelaide.edu.au/
+AU,University of Ballarat,http://www.ballarat.edu.au/
+AU,University of Canberra,http://www.canberra.edu.au/
+AU,University of Divinity,http://www.divinity.edu.au/
+AU,University of Melbourne,http://www.unimelb.edu.au/
+AU,University of Newcastle,http://www.newcastle.edu.au/
+AU,University of New England,http://www.une.edu.au/
+AU,University of New South Wales,http://www.unsw.edu.au/
+AU,University of Notre Dame Australia,http://www.nd.edu.au/
+AU,University of Queensland,http://www.uq.edu.au/
+AU,University of South Australia,http://www.unisa.edu.au/
+AU,University of Southern Queensland,http://www.usq.edu.au/
+AU,University of Sydney,http://www.usyd.edu.au/
+AU,University of Tasmania,http://www.utas.edu.au/
+AU,University of Technology Sydney,http://www.uts.edu.au/
+AU,University of the Sunshine Coast,http://www.usc.edu.au/
+AU,University of Western Australia,http://www.uwa.edu.au/
+AU,University of Western Sydney,http://www.uws.edu.au/
+AU,University of Wollongong,http://www.uow.edu.au/
+AZ,Academy of Public Administration,http://www.dia.edu.az/
+AZ,Azerbaijan Diplomatic Academy,http://www.ada.edu.az/
+AZ,Azerbaijan International University,http://www.abu.az/
+AZ,Azerbaijan Medical University,http://www.amu.edu.az/
+AZ,Azerbaijan National Conservatorie,http://www.conservatory.az/
+AZ,Azerbaijan State Economic University,http://www.aseu.az/
+AZ,Azerbaijan State Oil Academy,http://adna.jis.az/
+AZ,Azerbaijan Technical University,http://www.aztu.az/
+AZ,Azerbaijan Technology University,http://www.aztu.edu.az/
+AZ,Azerbaijan Toursim Institute,http://www.tourism.edu.az/
+AZ,Azerbaijan University,http://www.au.edu.az/
+AZ,Azerbaijan University ol Languages,http://www.adu.edu.az/
+AZ,Baki Business University,http://www.bbu.edu.az/
+AZ,Baku Slavic University,http://www.bsu-edu.org/
+AZ,Baku State University,http://www.bsu.az/
+AZ,Ganja State University ,http://www.gsu.az/
+AZ,Khazar University,http://www.khazar.org/
+AZ,Lankaran State University,http://www.lsu.edu.az/
+AZ,Nakhchivan Private University,http://www.az-npu.org/
+AZ,Nakhchivan State University,http://www.ndu.edu.az/
+AZ,National Aviation Academy,http://www.naa.edu.az/
+AZ,Odlar Yurdu University,http://www.oyu.edu.az/
+AZ,Police Academy,http://www.pa.edu.az/
+AZ,Qafqaz University,http://www.qafqaz.edu.az/
+AZ,Sumgait State University,http://www.sdu.edu.az/
+AZ,Western University,http://www.wu.edu.az/
+BA,American University,http://www.aubih.ba/
+BA,International Burch University,http://www.ibu.edu.ba/
+BA,International University of Sarajevo,http://www.ius.edu.ba/
+BA,International University of Travnik,http://www.iu-travnik.com/
+BA,Sarajevo Film Academy,http://www.sfa.ba/
+BA,Slobomir P Univerzitet,http://www.spu.ba/
+BA,University of Banja Luka,http://www.unibl.org/
+BA,University of Bihac,http://www.unbi.ba/
+BA,University of East Srarajevo,http://www.unssa.rs.ba/
+BA,University of Mostar,http://www.sve-mo.ba/
+BA,University of Sarajevo,http://www.unsa.ba/
+BA,University of Tuzla,http://www.untz.ba/
+BA,University of Zenica,http://www.unze.ba/
+BA,University Vitez In Travnik,http://www.unvi.edu.ba/
+BA,"Univerzitet u Mostaru ""Dzemal Bijedic""",http://www.unmo.ba/
+BB,"University of the West Indies, Cave Hill",http://www.uwichill.edu.bb/
+BD,Ahsanullah University of Science & Technology,http://www.aust.edu/
+BD,American International University - Bangladesh,http://www.aiub.edu/
+BD,Asa University Bangladesh,http://www.asaub.edu.bd/
+BD,Asian University of Bangladesh,http://www.aub-bd.org/
+BD,Atish Dipankar University,http://www.atishdipankaruniversity.edu.bd/
+BD,Bangabandhu Sheikh Mujibur Rahman Agricultural University,http://www.bsmrau.edu.bd/
+BD,Bangabandhu Sheikh Mujibur Rahman Medical University,http://www.bsmmu.edu.bd/
+BD,Bangladesh Agricultural University,http://www.bau.edu.bd/
+BD,Bangladesh Open University,http://www.bou.edu.bd/
+BD,Bangladesh University,http://www.bu.edu.bd/
+BD,Bangladesh University of Business & Technology,http://www.bubt.edu.bd/
+BD,Bangladesh University of Engineering and Technology,http://www.buet.ac.bd/
+BD,Bangladesh University of Professionals,http://www.bup.edu.bd/
+BD,Bangladesh University of Textiles,http://www.butex.edu.bd/
+BD,"Begum Rokeya University, Rangpur",http://www.brur.ac.bd/
+BD,"BGC Trust University, Bangladesh",http://www.bgctrustbd.org/btub/
+BD,Brac University,http://www.bracuniversity.net/
+BD,Chittagong Independent University,http://www.ciu.edu.bd/
+BD,Chittagong University of Engineering and Technology,http://www.cuet.ac.bd/
+BD,City University,http://www.cityuniversity.edu.bd/
+BD,Comilla University,http://www.cou.ac.bd/
+BD,Daffodil International University,http://www.daffodilvarsity.edu.bd/
+BD,Darul Ihsan University,http://www.diu.ac.bd/
+BD,Dhaka International University,http://www.diu.net.bd/
+BD,Dhaka University of Engineering and Technology,http://www.duet.ac.bd/
+BD,East Delta University,http://www.eastdelta.edu.bd/
+BD,Eastern University,http://www.easternuni.edu.bd/
+BD,East West University,http://www.ewubd.edu/
+BD,"East-West University, Mohakhali",http://www.ewubd.edu/
+BD,Green University of Bangladesh,http://www.green.edu.bd/
+BD,Hajee Mohammad Danesh Science and Technology University,http://www.hstu.ac.bd/
+BD,IBAIS University,http://www.ibaisuniv.edu.bd/
+BD,"Independent University, Bangladesh",http://www.iub.edu.bd/
+BD,International Culture University ,http://www.icu-edu.org/
+BD,International Islamic University Chittagong,http://www.iiuc.ac.bd/
+BD,International University of Business Agriculture and Technology,http://www.iubat.edu/
+BD,Islamic University Kushtia,http://www.iu.ac.bd/
+BD,Islamic University of Technology,http://www.iutoic-dhaka.edu/
+BD,Jagannath University,http://www.jnu.ac.bd/
+BD,Jahangirnagar University,http://www.juniv.edu/
+BD,Jatiya Kabi Kazi Nazrul Islam University,http://www.jkkniu.edu.bd/
+BD,Khulna University,http://www.ku.ac.bd/
+BD,Khulna University of Engineering And Technology,http://www.kuet.ac.bd/
+BD,Leading University,http://www.lus.ac.bd/
+BD,Manarat International University,http://www.manarat.ac.bd/
+BD,Mawlana Bhashani Science And Technology University,http://www.mbstu.ac.bd/
+BD,Metropolitan University,http://www.metrouni.edu.bd/
+BD,Military Institute of Science and Technology,http://www.mist.ac.bd/
+BD,National University,http://www.nu.edu.bd/
+BD,Noakhali University of Science and Technology,http://www.nstu.edu.bd/
+BD,North East University Bangladesh,http://www.neub.edu.bd/
+BD,Northern University Bangladesh,http://www.nub.ac.bd/
+BD,North South University,http://www.northsouth.edu/
+BD,Pabna University of Science and Technology,http://www.pust.ac.bd/
+BD,Patuakhali Science and Technology University,http://www.pstu.ac.bd/
+BD,People's University of Bangladesh,http://www.pub.ac.bd/
+BD,Premier University,http://www.puc.ac.bd/
+BD,Presidency University,http://www.presidency.edu.bd/
+BD,Queens University,http://www.queensuniversity.edu.bd/
+BD,Rajshahi University of Engineering and Technology,http://www.ruet.ac.bd/
+BD,Shahjalal University of Science and Technology,http://www.sust.edu/
+BD,Southeast University,http://www.seu.ac.bd/
+BD,Southern University Bangladesh,http://www.southern.edu.bd/
+BD,Stamford University,http://www.stamforduniversity.edu.bd/
+BD,Sylhet Agricultural University,http://www.sau.ac.bd/
+BD,Sylhet Engineering College,http://www.sec.ac.bd/
+BD,Sylhet International University,http://www.siu.edu.bd/
+BD,United International University,http://www.uiu.ac.bd/
+BD,"University of Asia Pacific, Dhanmondi",http://www.uap-bd.edu/
+BD,University of Chittagong,http://www.cu.ac.bd/
+BD,University of Development Alternative,http://www.uoda.edu.bd/
+BD,University of Dhaka,http://www.du.ac.bd/
+BD,University of Information Technology & Sciences,http://www.uits.edu.bd/
+BD,University of Liberal Arts,http://www.ulab.edu.bd/
+BD,University of Rajshahi,http://www.ru.ac.bd/
+BD,University of Science & Technology Chittagong,http://www.ustc.ac.bd/
+BD,World University of Bangladesh,http://www.wub.edu/
+BE,Brexgata University Academy,http://www.brexgata.eu/
+BE,Brussels Management School (ICHEC),http://www.ichec.be/
+BE,Brussels School of International Studies,http://www.ukc.ac.uk/international/bsis/
+BE,College of Europe,http://www.coleurope.eu/
+BE,Continental Theological Seminary,http://www.ctsem.edu/
+BE,ECAM - Institut Supérieur Industriel,http://www.ecam.be/
+BE,EHSAL - Europese Hogeschool Brussel,http://www.ehsal.be/
+BE,Erasmushogeschool Brussel,http://www.ehb.be/
+BE,European Carolus Magnus University,http://www.carolus-magnus-university.eu/
+BE,European International University,http://www.europeaniu.org/
+BE,"Evangelische Theologische Faculteit, Leuven",http://www.etf.edu/
+BE,Faculté Polytechnique de Mons,http://www.fpms.ac.be/
+BE,Facultés Universitaires Catholiques de Mons,http://www.fucam.ac.be/
+BE,Facultés Universitaires Notre-Dame de la Paix,http://www.fundp.ac.be/
+BE,Facultés Universitaires Saint-Louis,http://www.fusl.ac.be/
+BE,Faculté Universitaire des Sciences Agronomiques de Gembloux,http://www.fsagx.ac.be/
+BE,Fondation Universitaire Luxembourgeoise,http://www.ful.ac.be/
+BE,Hasselt University,http://www.uhasselt.be/
+BE,Hogere Zeevaartschool - Maritime Academy,http://www.hzs.be/
+BE,Hogeschool Antwerpen,http://www.ha.be/
+BE,"Hogeschool voor Wetenschap en Kunst (VLEKHO), Brussel",http://www.vlekho.be/
+BE,Hogeschool voor Wetenschap & Kunst,http://www.wenk.be/
+BE,Hogeschool West-Vlaanderen (TU),http://www.howest.be/
+BE,Karel De Grote Hogeschool,http://www.kdg.be/
+BE,Katholieke Hogeschool Kempen,http://www.khk.be/
+BE,Katholieke Hogeschool Leuven,http://www.khleuven.be/
+BE,Katholieke Hogeschool Limburg,http://www.khlim.be/
+BE,Katholieke Universiteit Brussel,http://www.kubrussel.ac.be/
+BE,Katholieke Universiteit Leuven,http://www.kuleuven.ac.be/
+BE,"Katholieke Universiteit Leuven, Campus Kortrijk",http://www.kulak.ac.be/
+BE,Royal Military Academy,http://www.rma.ac.be/
+BE,Thierry Graduate School of Leadership,http://www.thierryschool.org/
+BE,United Business Institute,http://www.ubi.edu/
+BE,Université Catholique de Louvain,http://www.ucl.ac.be/
+BE,Université de Liège,http://www.ulg.ac.be/
+BE,Université de Mons-Hainaut,http://www.umh.ac.be/
+BE,Universiteit Antwerpen,http://www.ua.ac.be/
+BE,Universiteit Antwerpen Management School,http://www.uams.be/
+BE,"Universiteit Antwerpen, UFSIA",http://www.ufsia.ac.be/
+BE,Universiteit Gent,http://www.rug.ac.be/
+BE,Université Libre de Bruxelles,http://www.ulb.ac.be/
+BE,Vesalius College,http://www.vesalius.edu/
+BE,Vlerick Leuven Gent Management School,http://www.vlerick.be/
+BE,Vrije Universiteit Brussel,http://www.vub.ac.be/
+BF,Université de Ouagadougou,http://www.univ-ouaga.bf/
+BG,"Academy of Economics ""Dimitur A. Tscenov""",http://www.uni-svishtov.bg/
+BG,"Academy of Music, Dance and Fine Arts",http://amti.hit.bg/
+BG,Agricultural University of Plovdiv,http://www.au-plovdiv.bg/
+BG,American University in Bulgaria,http://www.aubg.bg/
+BG,Bourgas Free University,http://www.bfu.bg/
+BG,"Bourgas University ""Prof. Assen Zlatarov""",http://www.btu.bg/
+BG,City University Programs in Bulgaria ,http://www.cityu.bg/
+BG,International University College,http://www.vumk.eu/
+BG,Medical University of Sofia,http://www.mu-sofia.bg/
+BG,Medical University Pleven,http://www.mu-pleven.bg/
+BG,Medical University Plovdiv,http://www.meduniversity-plovdiv.bg/
+BG,Medical University Varna,http://www.mu-varna.bg/
+BG,Military University Shoumen,http://www.pv-ma.bg/
+BG,"National Academy for Theatre and Film Arts ""Krustju Sarafov""",http://www.natfiz.bg/
+BG,National Academy of Arts,http://www.nha-bg.org/
+BG,"National Academy of Music ""Pantcho Vladigerov""",http://www.nma.bg/
+BG,National Sports Academy Sofia,http://www.nsa.bg/
+BG,New Bulgarian University,http://www.nbu.bg/
+BG,"Shoumen University ""Konstantin Preslavski""",http://www.shu-bg.net/
+BG,"Sofia University ""St. Kliment Ohridski""",http://www.uni-sofia.bg/
+BG,"South-West University ""Neofit Rilski""",http://www.swu.bg/
+BG,Technical University of Gabrovo,http://www.tugab.bg/
+BG,Technical University of Sofia,http://www.tu-sofia.bg/
+BG,Technical University of Varna,http://www.tu-varna.acad.bg/
+BG,Trakia University Stara Zagora,http://www.uni-sz.bg/
+BG,"University of Architecture, Civil Engineering and Geodesy",http://www.uacg.bg/
+BG,University of Chemical Technology and Metallurgy,http://www.uctm.edu/
+BG,University of Economics Varna,http://www.ue-varna.bg/
+BG,University of Food Technology,http://www.uft-plovdiv.bg/
+BG,University of Forestry Sofia,http://www.ltu.bg/
+BG,"University of Mining and Geology ""St. Ivan Rils""",http://www.mgu.bg/
+BG,University of National and World Economy,http://www.unwe.acad.bg/
+BG,University of Plovdiv,http://www.uni-plovdiv.bg/
+BG,University of Rousse,http://www.ru.acad.bg/
+BG,Varna Free University,http://www.vfu.bg/
+BG,"Veliko Turnovo University ""Cyril and Methodius""",http://www.uni-vt.bg/
+BH,Al Ahlia University,http://www.ahliauniversity.org/
+BH,Ama International University,http://www.amaiu.edu.bh/
+BH,Applied Science University,http://www.asu.edu.bh/
+BH,Arabian Gulf University,http://www.agu.edu.bh/
+BH,Arab Open University,http://www.aou.org.bh/
+BH,Bahrain Polytechnic,http://www.polytechnic.bh/
+BH,Gulf University College,http://www.gulfuniversity.net/
+BH,New York Instiute of Technology,http://www.nyit.edu.bh/
+BH,RCSI-Medical University of Bahrain,http://www.rcsi-mub.com/
+BH,The Kingdom University,http://www.ku.edu.bh/
+BH,University College Bahrain,http://www.ucb.edu.bh/
+BH,University of Bahrain,http://www.uob.edu.bh/
+BI,Hope Africa University,http://hopeafricauniversity.org/
+BI,Université du Burundi,http://www.ub.edu.bi/
+BI,Université Lumière de Bujumbura,http://www.ulbu.bi/
+BJ,Espam Formation University,http://www.espam-formationuc.org/
+BJ,Houdegbe North American University Benin,http://www.hnaubenin.org/
+BJ,Université d'Abomey-Calavi (UAC),http://www.uac.bj/
+BM,Bermuda College,http://www.bercol.bm/
+BN,Institut Teknologi Brunei,http://www.itb.edu.bn/
+BN,Universiti Islam Sultan Sharif Ali,http://www.unissa.edu.bn/
+BN,University of Brunei Darussalam,http://www.ubd.edu.bn/
+BO,Escuela Militar de Ingeniería,http://www.emi.edu.bo/
+BO,Universidad Adventista de Bolivia,http://www.uab.edu.bo/
+BO,Universidad Amazonica de Pando,http://www.uapnet.edu.bo/
+BO,Universidad Andina Simón Bolivar,http://www.uasb.edu.bo/
+BO,"Universidad Autónoma del Beni ""José Ballivián""",http://www.uabjb.edu.bo/
+BO,Universidad Autónoma Gabriel René Moreno,http://www.uagrm.edu.bo/
+BO,Universidad Autónoma Juan Misael Saracho,http://www.uajms.edu.bo/
+BO,Universidad Autónoma Tomás Frías,http://www.uatf.edu.bo/
+BO,"Universidad Católica Boliviana, Cochabamba",http://www.ucbcba.edu.bo/
+BO,"Universidad Católica Boliviana, La Paz",http://www.ucb.edu.bo/
+BO,"Universidad Católica Boliviana, Santa Cruz",http://www.ucbscz.edu.bo/
+BO,"Universidad Católica Boliviana, Tarija",http://www.ucbtja.edu.bo/
+BO,Universidad Central,http://www.unicen.edu.bo/
+BO,Universidad de Aquino Bolivia,http://www.udabol.edu.bo/
+BO,Universidad Domingo Savio,http://www.upds.edu.bo/
+BO,Universidad Empresarial Mateo Kuljis,http://www.unikuljis.edu.bo/
+BO,Universidad Juan Misael Saracho,http://www.uajms.edu.bo/
+BO,Universidad Los Andes,http://www.udelosandes.edu.bo/
+BO,Universidad Mayor de San Andrés,http://www.umsanet.edu.bo/
+BO,Universidad Mayor de San Simón,http://www.umss.edu.bo/
+BO,Universidad Nacional Siglo XX Llallagua,http://www.unsxx.edu.bo/
+BO,Universidad Nuestra Senora de La Paz,http://www.unslp.edu.bo/
+BO,Universidad NUR,http://www.nur.edu/
+BO,Universidad Privada Abierta Latinoamericana,http://www.upal.edu/
+BO,Universidad Privada Boliviana,http://www.upb.edu/
+BO,Universidad Privada del Valle,http://www.univalle.edu/
+BO,Universidad Privada de Santa Cruz de la Sierra,http://www.upsa.edu.bo/
+BO,Universidad Privada Franz Tamayo (UNIFRANZ),http://www.unifranz.edu.bo/
+BO,Universidad Salesiana de Bolivia,http://www.usalesiana.edu.bo/
+BO,Universidad San Francisco Xavier,http://www.usfx.info/
+BO,Universidad San Francisco Xavier de Chuquisaca,http://www.usfx.edu.bo/
+BO,Universidad Técnica de Oruro,http://www.uto.edu.bo/
+BR,Centro Regional Universitário de Espiríto Santo do Pinhal,http://www.creupi.br/
+BR,Centro Universitário Adventista de São Paulo,http://www.unasp.edu.br/
+BR,Centro Universitário Barao de Maua,http://www.baraodemaua.br/
+BR,Centro Universitário Claretiano,http://www.claretiano.edu.br/
+BR,Centro Universitário de Araraquara,http://www.uniara.com.br/
+BR,Centro Universitário de João Pessoa,http://www.unipe.br/
+BR,Centro Universitário Monte Serrat,http://www.unimonte.br/
+BR,Centro Universitário Newton Paiva,http://www.newtonpaiva.br/
+BR,Centro Universitário Plinio Leite,http://www.unipli.com.br/
+BR,Centro Universitário Senac,http://www.sp.senac.br/
+BR,Centro Universitário Serra dos Órgãos,http://www.unifeso.edu.br/
+BR,EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória,http://www.emescam.br/
+BR,FAAP - Fundação Armando Alvares Penteado,http://www.faap.br/
+BR,Faculdade Integradas do Ceará,http://www.fic.br/
+BR,Faculdade Italo Brasileira,http://www.italo.br/
+BR,Faculdade Jaguariúna,http://www.faj.br/
+BR,Faculdades Integradas Curitiba,http://www.faculdadescuritiba.br/
+BR,Faculdades Integradas do Brasil - UNIBRASIL,http://www.unibrasil.com.br/
+BR,Faculdades Integradas Toledo,http://www.toledo.br/
+BR,Faculdades Integradas UPIS,http://www.upis.br/
+BR,FAE Business School - Faculdade de Administração e Economia,http://www.fae.edu/
+BR,Fundação Educacional de Ituverava,http://www.feituverava.com.br/
+BR,Instituto Mauá de Tecnologia,http://www.maua.br/
+BR,Instituto Nacional de Matemática Pura e Aplicada - IMPA,http://www.impa.br/
+BR,Instituto Tecnológico de Aeronáutica,http://www.ita.br/
+BR,Pontifícia Universidade Católica de Campinas,http://www.puccamp.br/
+BR,Pontifícia Universidade Católica de Minas Gerais,http://www.pucminas.br/
+BR,Pontifícia Universidade Católica de São Paulo,http://www.pucsp.br/
+BR,Pontificia Universidade Católica do Paraná,http://www.pucpr.br/
+BR,Pontifícia Universidade Católica do Rio de Janeiro,http://www.puc-rio.br/
+BR,Pontifícia Universidade Católica do Rio Grande do Sul,http://www.pucrs.br/
+BR,Universidade Bandeirante de São Paulo,http://www.uniban.br/
+BR,Universidade Braz Cubas,http://www.brazcubas.br/
+BR,Universidade Camilo Castelo Branco,http://www.unicastelo.br/
+BR,Universidade Candido Mendes,http://www.candidomendes.br/
+BR,Universidade Castelo Branco,http://www.castelobranco.br/
+BR,Universidade Católica de Brasília,http://www.ucb.br/
+BR,Universidade Católica de Goiás,http://www.ucg.br/
+BR,Universidade Católica de Pelotas,http://www.ucpel.tche.br/
+BR,Universidade Católica de Pernambuco,http://www.unicap.br/
+BR,Universidade Católica de Petrópolis,http://www.ucp.br/
+BR,Universidade Católica de Salvador,http://www.ucsal.br/
+BR,Universidade Católica de Santos,http://www.unisantos.com.br/
+BR,Universidade Católica Dom Bosco,http://www.unibosco.br/
+BR,Universidade Cidade de São Paulo,http://www.unicid.br/
+BR,Universidade Cruzeiro do Sul,http://www.unicsul.br/
+BR,Universidade da Amazônia,http://www.unama.br/
+BR,Universidade da Região da Campanha,http://www.urcamp.tche.br/
+BR,Universidade de Alfenas,http://www.unifenas.br/
+BR,Universidade de Brasília,http://www.unb.br/
+BR,Universidade de Caxias do Sul,http://www.ucs.tche.br/
+BR,Universidade de Cruz Alta,http://www.unicruz.tche.br/
+BR,Universidade de Fortaleza,http://www.unifor.br/
+BR,Universidade de Franca,http://www.unifran.br/
+BR,Universidade de Guarulhos,http://www.ung.br/
+BR,Universidade de Itaúna,http://web.prover.com.br/fui/
+BR,Universidade de Marília,http://www.unimar.br/
+BR,Universidade de Mogi das Cruzes,http://www.umc.br/
+BR,Universidade de Nova Iguaçu,http://www.unig.br/
+BR,Universidade de Passo Fundo,http://www.upf.tche.br/
+BR,Universidade de Pernambuco,http://www.upe.br/
+BR,Universidade de Ribeirão Preto,http://www.unaerp.br/
+BR,Universidade de Santa Cruz do Sul,http://www.unisc.br/
+BR,Universidade de Santo Amaro,http://www.unisa.br/
+BR,Universidade de São Paulo,http://www.usp.br/
+BR,Universidade de Taubaté,http://www.unitau.br/
+BR,Universidade de Tocantins,http://www.pop-to.rnp.br/
+BR,Universidade de Uberaba,http://www.uniube.br/
+BR,Universidade de Vila Velha,http://www.uvv.br/
+BR,Universidade do Amazonas,http://www.fua.br/
+BR,Universidade do Estado da Bahia,http://www.uneb.br/
+BR,Universidade do Estado de Santa Catarina,http://www.udesc.br/
+BR,Universidade do Estado do Rio de Janeiro,http://www.uerj.br/
+BR,Universidade do Estado do Rio Grande do Norte,http://www.uern.br/
+BR,Universidade do Extremo Sul Catarinense,http://www.unesc.rct-sc.br/
+BR,Universidade do Grande Rio,http://www.unigranrio.br/
+BR,Universidade do Oeste de Santa Catarina,http://www.unoesc.edu.br/
+BR,Universidade do Oeste Paulista,http://www.unoeste.br/
+BR,Universidade do Rio de Janeiro,http://www.unirio.br/
+BR,Universidade do Rio Grande,http://www.furg.br/
+BR,Universidade do Sagrado Coração,http://www.usc.br/
+BR,Universidade do Sul de Santa Catarina,http://www.unisul.br/
+BR,Universidade do Vale do Itajaí,http://www.univali.rct-sc.br/
+BR,Universidade Estácio de Sá,http://www.estacio.br/
+BR,Universidade Estadual da Paraíba,http://www.uepb.edu.br/
+BR,Universidade Estadual de Campinas,http://www.unicamp.br/
+BR,Universidade Estadual de Feira de Santana,http://www.uefs.br/
+BR,Universidade Estadual de Londrina,http://www.uel.br/
+BR,Universidade Estadual de Maringá,http://www.uem.br/
+BR,Universidade Estadual de Montes Claros,http://www.unimontes.br/
+BR,Universidade Estadual de Ponta Grossa,http://www.uepg.br/
+BR,Universidade Estadual de Santa Cruz,http://www.uesc.br/
+BR,Universidade Estadual do Ceará,http://www.uece.br/
+BR,Universidade Estadual do Centro-Oeste,http://www.unicentro.br/
+BR,Universidade Estadual do Maranhão,http://www.uema.br/
+BR,Universidade Estadual do Norte Fluminense,http://www.uenf.br/
+BR,Universidade Estadual do Oeste do Paraná,http://www.unioeste.br/
+BR,Universidade Estadual do Piauí,http://www.uespi.br/
+BR,Universidade Estadual do Vale do Acaraú,http://www.uvanet.br/
+BR,Universidade Estadual Paulista,http://www.unesp.br/
+BR,Universidade Estadual Sudoeste da Bahia,http://www.uesb.br/
+BR,Universidade Federal da Bahia,http://www.ufba.br/
+BR,Universidade Federal da Grande Dourados,http://www.ufgd.edu.br/
+BR,Universidade Federal da Paraíba,http://www.ufpb.br/
+BR,Universidade Federal de Alagoas,http://www.ufal.br/
+BR,Universidade Federal de Campina Grande,http://www.ufcg.edu.br/
+BR,Universidade Federal de Goiás,http://www.ufg.br/
+BR,Universidade Federal de Juiz de Fora,http://www.ufjf.br/
+BR,Universidade Federal de Lavras,http://www.ufla.br/
+BR,Universidade Federal de Mato Grosso,http://www.ufmt.br/
+BR,Universidade Federal de Mato Grosso do Sul,http://www.ufms.br/
+BR,Universidade Federal de Minas Gerais,http://www.ufmg.br/
+BR,Universidade Federal de Ouro Preto,http://www.ufop.br/
+BR,Universidade Federal de Pelotas,http://www.ufpel.tche.br/
+BR,Universidade Federal de Pernambuco,http://www.ufpe.br/
+BR,Universidade Federal de Rondônia,http://www.unir.br/
+BR,Universidade Federal de Roraima,http://www.technet.com.br/vestibular/
+BR,Universidade Federal de Santa Catarina,http://www.ufsc.br/
+BR,Universidade Federal de Santa Maria,http://www.ufsm.br/
+BR,Universidade Federal de São Carlos,http://www.ufscar.br/
+BR,Universidade Federal de São Paulo,http://www.epm.br/
+BR,Universidade Federal de Sergipe,http://www.ufs.br/
+BR,Universidade Federal de Uberlândia,http://www.ufu.br/
+BR,Universidade Federal de Viçosa,http://www.ufv.br/
+BR,Universidade Federal do ABC,http://www.ufabc.edu.br/
+BR,Universidade Federal do Acre,http://www.ufac.br/
+BR,Universidade Federal do Amapá,http://www.unifap.br/
+BR,Universidade Federal do Ceará,http://www.ufc.br/
+BR,Universidade Federal do Espírito Santo,http://www.ufes.br/
+BR,Universidade Federal do Maranhão,http://www.ufma.br/
+BR,Universidade Federal do Pará,http://www.ufpa.br/
+BR,Universidade Federal do Paraná,http://www.ufpr.br/
+BR,Universidade Federal do Piauí,http://www.ufpi.br/
+BR,Universidade Federal do Rio de Janeiro,http://www.ufrj.br/
+BR,Universidade Federal do Rio Grande do Norte,http://www.ufrn.br/
+BR,Universidade Federal do Rio Grande do Sul,http://www.ufrgs.br/
+BR,Universidade Federal do Vale do São Francisco,http://www.univasf.edu.br/
+BR,Universidade Federal Fluminense,http://www.uff.br/
+BR,Universidade Federal Rural de Pernambuco,http://www.ufrpe.br/
+BR,Universidade Federal Rural do Rio de Janeiro,http://www.ufrrj.br/
+BR,Universidade Federal Rural do Semi-Árido,http://www.ufersa.edu.br/
+BR,Universidade Gama Filho,http://www.ugf.br/
+BR,Universidade Ibirapuera,http://www.unib.br/
+BR,Universidade Luterana do Brasil,http://www.ulbra.br/
+BR,Universidade Mackenzie,http://www.mackenzie.br/
+BR,Universidade Metodista de Piracicaba,http://www.unimep.br/
+BR,Universidade Metropolitana de Santos,http://www.unimes.com.br/
+BR,Universidade para o Desenvolvimento do Alto Vale do Itajaí,http://www.unidavi.rct-sc.br/
+BR,Universidade Paulista,http://www.unip-objetivo.br/
+BR,Universidade Potiguar,http://www.unp.br/
+BR,Universidade Regional de Blumenau,http://www.furb.rct-sc.br/
+BR,Universidade Regional do Cariri,http://www.urca.br/
+BR,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,http://www.unijui.tche.br/
+BR,Universidade Regional Integrada do Alto Uruguai e das Missões,http://www.uri.br/
+BR,Universidade Salgado de Oliveira,http://www.universo.br/
+BR,Universidade Salvador,http://www.unifacs.br/
+BR,Universidade Santa Cecília dos Bandeirantes,http://www.stcecilia.br/
+BR,Universidade Santa Úrsula,http://www.usu.br/
+BR,Universidade São Francisco,http://www.usf.br/
+BR,Universidade São Judas Tadeu,http://www.saojudas.br/
+BR,Universidade São Marcos,http://www.smarcos.br/
+BR,Universidade Tiradentes,http://www.unit.br/
+BR,Universidade Vale do Paraiba,http://www.univap.br/
+BR,Universidade Vale do Rio Doce,http://www.univale.br/
+BR,Universidade Vale do Rio dos Sinos,http://www.unisinos.br/
+BR,Universidade Veiga de Almeida,http://www.uva.br/
+BS,The College of The Bahamas,http://www.cob.edu.bs/
+BT,Royal University of Bhutan,http://www.rub.edu.bt/
+BW,ABM University College,http://www.abm.ac.bw/
+BW,Botho University,http://www.bothocollege.ac.bw/
+BW,Botswana Accountancy College,http://www.bac.ac.bw/
+BW,Botswana College of Agriculture,http://www.bca.bw/
+BW,Botswana International University of Science & Technology,http://www.biust.ac.bw/
+BW,Gaborone Universal College of Law,http://www.guc.co.bw/
+BW,"New Era College of Arts, Science & Technology",http://www.neweracollege.ac.bw/
+BW,University of Botswana,http://www.ub.bw/
+BY,Academy of Public Administration of Belarus,http://www.pac.by/
+BY,Academy of the Ministry of Internal Affairs of the Republic of Belarus,http://academy.mia.by/
+BY,Belarusian-Russian University,http://www.bru.mogilev.by/
+BY,Belarussian National Technical University,http://www.bntu.by/
+BY,Belarussian State Academy of Music,http://www.bgam.edu.by/
+BY,Belarussian State Agrarian Technical University,http://www.batu.edu.by/
+BY,Belarussian State Agricultural Academy,http://www.baa.by/
+BY,Belarussian State Economic University,http://www.bseu.by/
+BY,Belarussian State Medical University,http://www.bsmu.by/
+BY,Belarussian State Pedagogical University M. Tanka,http://www.bspu.unibel.by/
+BY,Belarussian State Polytechnical Academy,http://www.bspa.unibel.by/
+BY,Belarussian State Technological University,http://www.bstu.unibel.by/
+BY,Belarussian State University,http://www.bsu.by/
+BY,Belarussian State University of Culture and Arts,http://www.buk.by/
+BY,Belarussian State University of Informatics and Radioelectronics,http://www.bsuir.by/
+BY,Belarussian State University of Transport,http://www.belsut.gomel.by/
+BY,Brest State Technical University,http://www.bstu.by/
+BY,Brest State University,http://www.brsu.brest.by/
+BY,European Humanities University,http://www.data.minsk.by/ehu/
+BY,Gomel State Medical University,http://www.meduniver.gomel.by/
+BY,Gomel State Technical University Pavel Sukhoi,http://www.gstu.gomel.by/
+BY,Gomel State University Francisk Scarnia,http://www.gsu.unibel.by/
+BY,Grodno State Agrarian University,http://www.uni-agro.grodno.by/
+BY,Grodno State Medical University,http://www.grsmu.by/
+BY,Grodno State University Yanka Kupaly,http://www.grsu.by/
+BY,Institute for Command Engineers of The Ministry for Emergency Situations,http://www.kii.gov.by/
+BY,International Sakharov Environmental University,http://www.iseu.by/
+BY,Minsk Institute of Management,http://www.miu.by/
+BY,Minsk State Linguistic University,http://www.mslu.by/
+BY,Mogilev State University A.A. Kuleshov,http://msu.mogilev.by/
+BY,Mozyr State Pedagogical Institute,http://www.mgpu.gomel.by/
+BY,Polotsk State University,http://www.psu.by/
+BY,Vitebsk State Academy of Veterinary Medicine,http://www.vsavm.com/
+BY,Vitebsk State Medical University,http://www.vgmu.vitebsk.by/
+BY,Vitebsk State Technological University,http://www.vstu.vitebsk.by/
+BY,Vitebsk State University,http://www.vsu.by/
+BZ,"American University of the Caribbean, School of Medicine",http://www.aucmed.edu/
+BZ,Central America Health Sciences University (Belize Medical College),http://www.cahsu.edu/
+BZ,Greenford International University,http://www.giuedu.bz/
+BZ,University of Belize,http://www.ub.edu.bz/
+BZ,West Coast University (WCU) ,http://www.westcoastuniversity.bz/
+CA,Acadia University,http://www.acadiau.ca/
+CA,Algonquin College,http://www.algonquincollege.com/
+CA,Ashton College,http://www.ashtoncollege.com/
+CA,Assumption University,http://www.assumptionu.ca/
+CA,Athabasca University,http://www.athabascau.ca/
+CA,Augustana University College,http://www.augustana.ab.ca/
+CA,Bishop's University,http://www.ubishops.ca/
+CA,Bow Valley College,http://www.bowvalleycollege.ca/
+CA,Brandon University,http://www.brandonu.ca/
+CA,Brescia College,http://www.uwo.ca/brescia/
+CA,British Columbia Institute of Technology,http://www.bcit.ca/
+CA,British Columbia Open University,http://www.bcou.ca/
+CA,Brock University,http://www.brocku.ca/
+CA,Camosun College,http://www.camosun.bc.ca/
+CA,Campion College,http://www.uregina.ca/campion/
+CA,Canadian College of Business & Computers,http://www.ccbc.ca/
+CA,Canadian Mennonite University,http://www.cmu.ca/
+CA,Capilano College,http://www.capcollege.bc.ca/
+CA,Carleton University,http://www.carleton.ca/
+CA,Centennial College,http://www.centennialcollege.ca/
+CA,Collège Boréal,http://www.borealc.on.ca/
+CA,College of New Caledonia,http://www.cnc.bc.ca/
+CA,College of the Rockies,http://www.cotr.bc.ca/
+CA,Columbia College,http://www.columbiacollege.ca/
+CA,Concordia University,http://www.concordia.ca/
+CA,Concordia University College of Alberta,http://www.concordia.ab.ca/
+CA,Conestoga College,http://www.conestogac.on.ca/
+CA,Dalhousie University,http://www.dal.ca/
+CA,DeVry Institute of Technology,http://www.cal.devry.ca/
+CA,Dominican College of Philosophy and Theology,http://www.op.org/canada/college.htm
+CA,Douglas College,http://www.douglas.bc.ca/
+CA,Durham College,http://www.durhamc.on.ca/
+CA,École des Hautes Études Commerciales,http://www.hec.ca/
+CA,"École de technologie supérieure, Université du Québec",http://www.etsmtl.ca/
+CA,"École nationale d'administration publique, Université du Québec",http://www.enap.uquebec.ca/
+CA,"École Polytechnique de Montréal, Université de Montréal",http://www.polymtl.ca/
+CA,Emily Carr Institute of Art + Design,http://www.eciad.bc.ca/
+CA,First Nations University of Canada,http://www.firstnationsuniversity.ca/
+CA,George Brown College,http://www.gbrownc.on.ca/
+CA,Humber College,http://www.humber.ca/
+CA,Huron University College,http://www.huronuc.on.ca/
+CA,"Institut Armand-Frappier, Université du Québec",http://www.iaf.inrs.ca/
+CA,"Institut National de la Recherche Scientifique, Université du Québec",http://www.inrs.uquebec.ca/
+CA,King's College,http://www.uwo.ca/kings/
+CA,Kingston College,http://www.kingston.edu/
+CA,King's University College,http://www.kingsu.ab.ca/
+CA,Kwantleen University College,http://www.kwantlen.bc.ca/
+CA,Lakehead University,http://www.lakeheadu.ca/
+CA,Langara College,http://www.langara.bc.ca/
+CA,Lansbridge University,http://www.lansbridge.com/
+CA,Laurentian University of Sudbury,http://www.laurentian.ca/
+CA,Luther College,http://www.saskweb.com/luthercollege/
+CA,MacEwan University,http://www.macewan.ca/
+CA,Malaspina University College,http://www.mala.bc.ca/
+CA,McGill University,http://www.mcgill.ca/
+CA,McMaster University,http://www.mcmaster.ca/
+CA,Memorial University of Newfoundland,http://www.ucs.mun.ca/
+CA,Mount Allison University,http://www.mta.ca/
+CA,Mount Royal College,http://www.mtroyal.ab.ca/
+CA,Mount Saint Vincent University,http://www.msvu.ca/
+CA,Nicola Valley Institute of Technology,http://www.nvit.bc.ca/
+CA,Nipissing University,http://www.nipissingu.ca/
+CA,Northern Alberta Institute of Technology,http://www.nait.ca/
+CA,Northern Lights College,http://www.nlc.bc.ca/
+CA,North Island College,http://www.nic.bc.ca/
+CA,Nova Scotia Agricultural College,http://www.nsac.ns.ca/
+CA,Nova Scotia College of Art and Design,http://www.nscad.ns.ca/
+CA,Okanagan University College,http://www.okanagan.bc.ca/
+CA,Ontario College of Art and Design,http://www.ocad.ca/
+CA,Pacific International College,http://www.picollege.ca/
+CA,Queen's University,http://www.queensu.ca/
+CA,Quest University,http://www.questu.ca/
+CA,Redeemer College,http://www.redeemer.ca/
+CA,Regent College,http://www.regent-college.edu/
+CA,Royal Military College of Canada,http://www.rmc.ca/
+CA,Royal Roads University,http://www.royalroads.ca/
+CA,Ryerson Polytechnic University,http://www.ryerson.ca/
+CA,Saskatchewan Indian Federated College,http://www.sifc.edu/
+CA,Sauder School of Business,http://www.sauder.ubc.ca/
+CA,Selkirk College,http://www.selkirk.bc.ca/
+CA,Seneca College,http://www.senecac.on.ca/
+CA,Sheridan College,http://www.sheridanc.on.ca/
+CA,Simon Fraser University,http://www.sfu.ca/
+CA,Southern Alberta Institute of Technology,http://www.sait.ca/
+CA,St. Anne University,http://www.ustanne.ednet.ns.ca/
+CA,St. Clair College,http://www.stclairc.on.ca/
+CA,St. Francis Xavier University,http://www.stfx.ca/
+CA,St. Mary's University,http://www.stmarys.ca/
+CA,St. Paul University,http://www.ustpaul.ca/
+CA,St. Thomas University,http://www.stthomasu.ca/
+CA,"Télé-université, Université du Québec",http://www.teluq.uquebec.ca/
+CA,Thompson Rivers University,http://www.tru.ca/
+CA,Trent University,http://www.trentu.ca/
+CA,Trinity Western University,http://www.twu.ca/
+CA,Université de Montréal,http://www.umontreal.ca/
+CA,Université de Sherbrooke,http://www.usherb.ca/
+CA,Université du Québec à Chicoutimi,http://www.uqac.ca/
+CA,Université du Québec à Montréal,http://www.uqam.ca/
+CA,Université du Québec à Rimouski,http://www.uqar.uquebec.ca/
+CA,Université du Québec à Trois-Rivières,http://www.uqtr.uquebec.ca/
+CA,Université du Québec en Abitibi-Témiscamingue,http://www.uqat.uquebec.ca/
+CA,Université du Québec en Outaouais,http://www.uqo.ca/
+CA,Université Laval,http://www.ulaval.ca/
+CA,University Canada West,http://www.universitycanadawest.ca/
+CA,University College of Cape Breton,http://www.uccb.ns.ca/
+CA,University College of Saint-Boniface,http://www.ustboniface.mb.ca/
+CA,University College of the Cariboo,http://www.cariboo.bc.ca/
+CA,University College of the Fraser Valley,http://www.ucfv.bc.ca/
+CA,University of Alberta,http://www.ualberta.ca/
+CA,University of British Columbia,http://www.ubc.ca/
+CA,University of Calgary,http://www.ucalgary.ca/
+CA,University of Guelph,http://www.uoguelph.ca/
+CA,University of King's College,http://www.ukings.ns.ca/
+CA,University of Lethbridge,http://www.uleth.ca/
+CA,University of Manitoba,http://www.umanitoba.ca/
+CA,University of Moncton,http://www.umoncton.ca/
+CA,"University of Moncton, Edmundston",http://www.cuslm.ca/
+CA,"University of Moncton, Shippagan",http://www.cus.ca/
+CA,University of New Brunswick,http://www.unb.ca/
+CA,"University of New Brunswick, Saint John",http://www.unbsj.ca/
+CA,University of Northern British Columbia,http://www.unbc.ca/
+CA,University of Ontario Institute of Technology,http://www.uoit.ca/
+CA,University of Ottawa,http://www.uottawa.ca/
+CA,University of Prince Edward Island,http://www.upei.ca/
+CA,University of Québec,http://www.uquebec.ca/
+CA,University of Regina,http://www.uregina.ca/
+CA,University of Saskatchewan,http://www.usask.ca/
+CA,University of St. Jerome's College,http://www.usjc.uwaterloo.ca/
+CA,University of St. Michael's College,http://www.utoronto.ca/stmikes/
+CA,University of Sudbury,http://www.usudbury.com/
+CA,University of Toronto,http://www.utoronto.ca/
+CA,"University of Toronto, Mississauga",http://www.utm.utoronto.ca/
+CA,"University of Toronto, Scarborough",http://www.scar.utoronto.ca/
+CA,University of Trinity College,http://www.trinity.utoronto.ca/
+CA,University of Victoria,http://www.uvic.ca/
+CA,University of Waterloo,http://www.uwaterloo.ca/
+CA,University of Western Ontario,http://www.uwo.ca/
+CA,University of Windsor,http://www.uwindsor.ca/
+CA,University of Winnipeg,http://www.uwinnipeg.ca/
+CA,Vancouver Community College,http://www.vcc.ca/
+CA,"Victoria University Toronto, University of Toronto",http://vicu.utoronto.ca/
+CA,Wilfrid Laurier University,http://www.wlu.ca/
+CA,William and Catherine Booth College,http://www.boothcollege.ca/
+CA,York University,http://www.yorku.ca/
+CA,Yukon College,http://www.yukoncollege.yk.ca/
+CD,Université Catholique de Bukavu,http://www.ucbukavu.ac.cd/
+CD,Université Chrétienne Bilingue du Congo,http://www.ucbc.org/
+CD,Université de Bandundu Ville,http://www.uniband.org/
+CD,Université de Kamina,http://www.ukamina.org/
+CD,Université de Kikwite,http://www.unikik.net/
+CD,Université de Kinshasa,http://www.unikin.cd/
+CD,Université de Kisangani,http://www.unikis.ac.cd/
+CD,Université de Kolwezi,http://www.unikol.ac.cd/
+CD,Université de Lubumbashi,http://www.unilu.ac.cd/
+CD,Université de l'Uélé,http://www.uniuele.ac.cd/
+CD,Université Kongo,http://www.universitekongo.org/
+CD,Université Protestante au Congo,http://www.upc.ac.cd/
+CD,Université Shalom de Bunia,http://www.unishabunia.org/
+CF,Université de Bangui,http://www.univ-bangui.net/
+CG,University Marien Ngouabi Brazzaville,http://www.univ-mngb.net/
+CH,Business and Hotel Management School,http://www.bhms.ch/
+CH,Business School Lausanne (BSL),http://www.bsl-lausanne.ch/
+CH,Cubidor University Switzerland,http://www.cubidor.com/
+CH,DCT International Hotel & Business Management School,http://www.dct.ch/
+CH,"European Graduate School, Media & Communications",http://www.egs.edu/
+CH,European University,http://www.euruni.edu/
+CH,Fachhochschule Pur,http://www.phw.info/
+CH,Fachhochschule St. Gallen,https://www.fhsg.ch/
+CH,Franklin College Switzerland,http://www.fc.edu/
+CH,Geneva Business School,http://www.gbs-ge.ch/
+CH,Glion Institute of Higher Education,http://www.glion.edu/
+CH,Graduate School of Business Administration Zurich (GSBA Zurich),http://www.gsba.ch/
+CH,Hochschule für Gestaltung und Kunst Zürich,http://www.hgkz.ch/
+CH,International Culinary Institute (ICI),http://www.ici-luzern.com/
+CH,International Hotel Management Institute,http://www.imi-luzern.com/
+CH,International School of Business Management,http://www.isbm-school.com/
+CH,International University in Geneva,http://www.iun.ch/
+CH,Lausanne Hotel School (EHL),http://www.ehl.ch/
+CH,Les Roches Gruyère University of Applied Sciences,http://www.lrguas.ch/
+CH,Les Roches International School of Hotel Management,http://www.lesroches.edu/
+CH,Libera Università degli Studi di Scienze Umane e Tecnologiche,http://www.uniludes.ch/
+CH,Lucerne University of Applied Sciences and Arts ,http://www.hslu.ch/
+CH,NTB Interstate University of Applied Sciences of Technology,http://www.ntb.ch/
+CH,Pädagogische Hochschule Zürich (Zurich School of Education),http://www.phzh.ch/
+CH,"Schiller International University, American College of Switzerland",http://www.american-college.com/
+CH,School of Management Fribourg,http://www.heg-fr.ch/
+CH,Swiss Business School Zurich (SBS),http://www.sbs.edu/
+CH,"Swiss Federal Institute of Technology, Lausanne",http://www.epfl.ch/
+CH,"Swiss Federal Institute of Technology, Zurich",http://www.ethz.ch/
+CH,Swiss Management Center,http://www.swissmc.ch/
+CH,"University Center ""César Ritz""",http://www.uccr.edu/
+CH,University of Applied Sciences Aargau,http://www.fh-aargau.ch/
+CH,University of Applied Sciences Basel (FHBB ),http://www.fhbb.ch/
+CH,University of Applied Sciences Chur,http://www.fh-htachur.ch/
+CH,University of Applied Sciences Rapperswil,http://www.hsr.ch/
+CH,University of Applied Sciences Solothurn Northwestern Switzerland,http://www.fhso.ch/
+CH,University of Basel,http://www.unibas.ch/
+CH,University of Berne,http://www.unibe.ch/
+CH,University of Fribourg,http://www.unifr.ch/
+CH,University of Geneva,http://www.unige.ch/
+CH,University of Lausanne,http://www.unil.ch/
+CH,University of Lucerne,http://www.unilu.ch/
+CH,University of Neuchatel,http://www.unine.ch/
+CH,University of St. Gallen,http://www.unisg.ch/
+CH,University of Switzerland,http://www.swissu.org/
+CH,University of the Italian-speaking Part of Switzerland,http://www.unisi.ch/
+CH,University of Zürich,http://www.unizh.ch/
+CH,Victoria University,http://www.victoria-uni.ch/
+CH,Webster University Geneva,http://www.webster.ch/
+CH,Zurich University of Applied Sciences Winterthur,http://www.zhwin.ch/
+CI,Université d'Abobo-Adjamé,http://www.uabobo.ci/
+CI,Université de Bouaké,http://www.ubouake.ci/
+CI,Université de Cocody,http://www.univ-cocody.ci/
+CL,Escuela de Arquitectura y Diseño,http://www.arquitecturaucv.cl/
+CL,Pontificia Universidad Catolica de Chile,http://www.puc.cl/
+CL,Universidad Academia de Humanismo Cristiano,http://www.academia.cl/
+CL,Universidad Academia de Humanismo Cristiano,http://www.academia.cl/
+CL,"Universidad ""Adolfo Ibañez""",http://www.uai.cl/
+CL,Universidad Adolfo Ibáñez,http://www.uai.cl/
+CL,Universidad Adventista de Chile,http://www.unachile.cl/
+CL,Universidad Alberto Hurtado,http://www.uahurtado.cl/
+CL,Universidad Arcis,http://www.universidadarcis.cl/
+CL,"Universidad ""Arturo Prat""",http://www.unap.cl/
+CL,Universidad Austral de Chile,http://www.uach.cl/
+CL,Universidad Autonoma del Sur,http://www.uas.cl/
+CL,Universidad Bernardo O'Higgins,http://www.ubohiggins.cl/
+CL,Universidad Bolivariana,http://www.ubolivariana.cl/
+CL,Universidad Católica Cardenal Raúl Silva Henríquez,http://www.ucsh.cl/
