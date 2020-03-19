@@ -1,5 +1,6 @@
 # PythonUtilities
 Silly utilities for create data for database
+This utilities was written as additionals for this application [Students List](https://github.com/DenisOstr/StudentList)
 
 # Description
 Python utilities written to process data, randomize and save the final result in a csv file.
@@ -11,7 +12,7 @@ Python utilities written to process data, randomize and save the final result in
 > This is a utility that formats data of cities and universities and saves the result to a new file.
 
 # First
-1. git clone ` https://github.com/DenisOstr/StudentList `
+1. git clone ` https://github.com/DenisOstr/PythonUtilities `
 
 # Work with utilities
 1. Run program ` DatabaseRandomizer.py ` with command (in cmd):
