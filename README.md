@@ -1,5 +1,5 @@
 # PythonUtilities
-Silly utilities for create data for database
+Silly utilities for create data for database\
 This utilities was written as additionals for this application [Students List](https://github.com/DenisOstr/StudentList)
 
 # Description
